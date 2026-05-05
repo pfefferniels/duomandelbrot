@@ -44,6 +44,9 @@ export const metadata: Metadata = {
     images: ["/images/3w4a6603.jpg"],
   },
   alternates: { canonical: "/" },
+  verification: {
+    google: "iJr3aUr1j0FA77NRJXyTXh_1WESgp75BFsqye-ap4sk",
+  },
 };
 
 export default function RootLayout({
