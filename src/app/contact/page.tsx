@@ -16,7 +16,7 @@ export default function ContactPage() {
       <Hero
         image="/images/hero-bg.jpeg"
         alt=""
-        title="Contact US"
+        title="Contact us"
       />
 
       <article className="mx-auto max-w-3xl px-6 py-16 text-center md:py-24">

@@ -161,7 +161,7 @@ export default function AboutPage() {
               />
             </div>
             <figcaption className="mt-2 text-center text-xs uppercase tracking-wider text-muted">
-              photo by Marc Wieber
+              photo by Marc Weber
             </figcaption>
           </figure>
 
