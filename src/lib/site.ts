@@ -7,8 +7,8 @@ export const youtubeChannel = "https://www.youtube.com/@duo.mandelbrot";
 
 export const navItems = [
   { href: "/", label: "Home" },
-  { href: "/about", label: "About" },
+  { href: "/about", label: "About Us" },
   { href: "/programs", label: "Programs" },
   { href: "/media", label: "Media" },
-  { href: "/contact", label: "Contact" },
+  { href: "/contact", label: "Contact Us" },
 ] as const;
