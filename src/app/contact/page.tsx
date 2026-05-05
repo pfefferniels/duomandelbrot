@@ -14,7 +14,7 @@ export default function ContactPage() {
   return (
     <>
       <Hero
-        image="/images/hero-bg.jpeg"
+        image="/images/3w4a6622.jpg"
         alt=""
         title="Contact us"
       />

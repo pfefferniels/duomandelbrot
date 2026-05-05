@@ -12,7 +12,7 @@ export default function ProgramsPage() {
   return (
     <>
       <Hero
-        image="/images/hero-bg.jpeg"
+        image="/images/banners/programs.png"
         alt=""
         title="Programs"
       />

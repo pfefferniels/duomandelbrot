@@ -38,7 +38,7 @@ export function Hero({
       />
       <div className="absolute inset-0 bg-black/35" />
       <div className="relative z-10 flex h-full items-center justify-center px-6">
-        <h1 className="font-serif text-5xl text-white drop-shadow-[0_2px_12px_rgba(0,0,0,0.45)] md:text-7xl">
+        <h1 className="font-serif text-5xl uppercase tracking-[0.04em] text-white drop-shadow-[0_2px_12px_rgba(0,0,0,0.45)] md:text-7xl">
           {title}
         </h1>
       </div>

@@ -22,7 +22,7 @@ export default function MediaPage() {
   return (
     <>
       <Hero
-        image="/images/hero-bg.jpeg"
+        image="/images/banners/media.png"
         alt=""
         title="Media"
       />

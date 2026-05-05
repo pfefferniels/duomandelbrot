@@ -13,7 +13,7 @@ export default function AboutPage() {
   return (
     <>
       <Hero
-        image="/images/hero-bg.jpeg"
+        image="/images/banners/about.png"
         alt=""
         title="About us"
       />
