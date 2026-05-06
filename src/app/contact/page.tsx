@@ -14,9 +14,10 @@ export default function ContactPage() {
   return (
     <>
       <Hero
-        image="/images/3w4a6622.jpg"
+        image="/images/3w4a6570.jpg"
         alt=""
         title="Contact us"
+        position="center 30%"
       />
 
       <article className="mx-auto max-w-3xl px-6 py-16 text-center md:py-24">
